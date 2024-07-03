@@ -1,0 +1,19 @@
+{
+  "name": "sundaeswap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "swap.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sundaeswap/core": "^1.2.1",
+    "@types/node": "^20.14.9",
+    "bignumber.js": "^9.1.2",
+    "lucid-cardano": "^0.10.7",
+    "typescript": "^5.5.3"
+  }
+}
